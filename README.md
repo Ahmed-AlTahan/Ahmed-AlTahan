@@ -3,8 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **nodejs, express, mongodb**
-
 - 📫 How to reach me **eng.ahmed.tahan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
